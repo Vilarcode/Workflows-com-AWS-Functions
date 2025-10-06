@@ -1,0 +1,16 @@
+aws-step-functions-lab/
+├── README.md  → explicação geral do projeto
+├── exemplos/
+│   ├── 01_hello_world/       → primeiro contato
+│   ├── 02_choice_state/      → decisão lógica
+│   ├── 03_parallel_tasks/    → tarefas em paralelo
+│   ├── 04_retry_e_erro/      → tratamento de erros
+│   ├── 05_map_loop/          → laço tipo "for"
+│   └── 06_exemplo_real/      → simulação mais completa
+├── insights/
+│   ├── o_que_aprendi.md
+│   ├── dificuldades.md
+│   └── dicas_para_estudar.md
+└── deploy/
+    ├── como_subir_pelo_console.md
+    └── como_usar_sam.md
